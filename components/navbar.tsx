@@ -17,18 +17,18 @@ export default function Navbar() {
           color="displayColor"
           fontWeight="bold"
           fontSize="32px">
-          <Bracket>&#123;</Bracket>GDSC<Bracket>&#125;</Bracket>
+          Ruby Ng
         </Text>
       </Box>
       <Spacer />
       <Box >
         <NextLink href="/" passHref>
-          <Button as="a" variant="ghost" p="4" ml="3vw" fontSize="16px" color="textSecondary">
+          <Button as="a" variant="ghost" p="4" ml="3vw" fontSize="24px" color="textSecondary">
             Home
           </Button>
         </NextLink>
-        <NextLink href="/todo!" passHref>
-          <Button as="a" variant="ghost" p="4" ml="3vw" fontSize="16px" color="textSecondary">
+        <NextLink href="/CV_Ruby Ng.pdf" passHref>
+          <Button as="a" variant="ghost" p="4" ml="3vw" fontSize="24px" color="textSecondary">
             CV
           </Button>
         </NextLink>

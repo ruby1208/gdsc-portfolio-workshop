@@ -5,10 +5,12 @@ export default function AboutMe() {
     
     <VStack spacing={4} justifyContent="left" alignItems="flex-start">
       <Heading color={"displayColor"}>
-        About Me
+        CV
       </Heading>
       <Text fontSize="display3" color="textSecondary">
-          Some description about yourself. Lorem ipsum and all that good stuff again.
+          何もない。<br/>
+          job ください。 <br/>
+          お願い :(
       </Text>
     </VStack>
 

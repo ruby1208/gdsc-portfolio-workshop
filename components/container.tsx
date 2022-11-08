@@ -18,13 +18,13 @@ export default function Container({children}: Props) {
       </Flex>
       <Stack alignItems="center" mt={10} mb={5}>
         <Text textAlign="center" fontSize={["0.5em", "sm"]} color="displayColor">
-          Designed and Developed by *YOUR NAME*.
+          Designed and Developed by Ruby
           <br />
           Built with{' '}
           <chakra.span fontWeight="semibold" color="button1">
-            Next.js
+            Next.js 
           </chakra.span>
-          . Hosted on{' '}
+          | Hosted on{' '}
           <chakra.span fontWeight="semibold" color="button1">
             Vercel
           </chakra.span>
